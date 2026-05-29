@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+openpyxl
+pdfplumber
+pytesseract
+pdf2image
+Pillow
